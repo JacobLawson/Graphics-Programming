@@ -1,0 +1,7 @@
+0: GL Error Callback: 
+ Error Source: SHADER COMP.
+ Error Type: ERROR
+ Severity: High
+ Message: SHADER_ID_COMPILE error has been generated. GLSL compile failed for shader 4, "": ERROR: 0:6: 'out' : syntax error syntax error
+
+

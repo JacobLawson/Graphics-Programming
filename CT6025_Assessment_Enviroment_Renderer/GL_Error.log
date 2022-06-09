@@ -1,0 +1,5 @@
+13545: GL Error Callback: 
+ Error Source: API
+ Error Type: Undefined
+ Severity: Medium
+ Message: Program undefined behavior warning: The current GL state uses a sampler (0) that has depth comparisons disabled, with a texture object (14) with a depth format, by a shader that samples it with a shadow sampler. This will result in undefined behavior.

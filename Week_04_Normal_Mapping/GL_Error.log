@@ -1,0 +1,5 @@
+10879: GL Error Callback: 
+ Error Source: API
+ Error Type: ERROR
+ Severity: High
+ Message: GL_INVALID_OPERATION error generated. No active program.

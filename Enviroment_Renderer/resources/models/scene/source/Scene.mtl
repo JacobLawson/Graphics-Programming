@@ -1,0 +1,80 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Base_mat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.346748 0.365016 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Jacob\\Downloads\\stylized-japanese-lantern-scene\\textures\\Base_mat_BaseColor+Alpha.tga.png
+
+newmtl Fix_prop
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Jacob\\Downloads\\stylized-japanese-lantern-scene\\textures\\Base_mat_BaseColor+Alpha.tga.png
+
+newmtl Foliage
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Jacob\\Downloads\\stylized-japanese-lantern-scene\\textures\\_Foliage_BaseColour+alpha.tga.png
+map_d C:\\Users\\Jacob\\Downloads\\stylized-japanese-lantern-scene\\Foliages\\Exprts\\_Foliage_alpha.tga
+
+newmtl Lantern_mat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Jacob\\Downloads\\stylized-japanese-lantern-scene\\textures\\Lantern_mat_BaseColor+Alpha.tga.png
+
+newmtl Prop_mat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Jacob\\Downloads\\stylized-japanese-lantern-scene\\textures\\Base_mat_BaseColor+Alpha.tga.png
+
+newmtl Rock_mat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Jacob\\Downloads\\stylized-japanese-lantern-scene\\textures\\Rock_mat_BaseColor+Alpha.tga.png
+
+newmtl Tree_mat
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Jacob\\Downloads\\stylized-japanese-lantern-scene\\textures\\Tree_mat_BaseColor+Alpha.tga.png
